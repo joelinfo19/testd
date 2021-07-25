@@ -20,3 +20,25 @@ F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPrese
 F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
 F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
 F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\User\source\repos\testd\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\User\source\repos\testd\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
