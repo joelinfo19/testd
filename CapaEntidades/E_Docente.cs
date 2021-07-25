@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaEntidades
 {
-    class E_Docente
+    public class E_Docente
     {
         private int _IdDocente;
         private string _Nombres;

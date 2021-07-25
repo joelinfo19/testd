@@ -11,7 +11,7 @@ using System.Data;
 
 namespace CapaDatos
 {
-    class D_Docente
+    public class D_Docente
     {
         SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
         public DataTable ListDocente()
